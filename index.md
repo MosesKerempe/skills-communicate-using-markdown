@@ -27,3 +27,10 @@ var myVar = "Hello, world!";
 
 
 ### inserted codes
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+
+      
+### Created a task list using Markdown
